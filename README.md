@@ -1,4 +1,4 @@
-What inspired this project was a research paper by Dr.Wenqian Dong.
+What inspired this project was a research paper by Dr. Wenqian Dong.
 In it she explored the issues with current Hurricane data. The problem is that often, this data is incomplete, inconsistent, or even missing.
 To solve this issue she created a framework called HurriCast. 
 HurriCast utilizes data augmentation to generates synthetic hurricane tracks to supplement historical data. 
